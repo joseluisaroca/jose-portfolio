@@ -1,11 +1,11 @@
-:root { --accent-print:#D80848; --accent-print2:#9228eb; --accent-print5:#036690; --main-color:#101222; }
+:root { --accent-print:#D80848; --accent-print2:#031f90; --accent-print5:#036690; --main-color:#101222; }
 * { color:var(--main-color) }
-body { margin:0; font-weight:400; line-height:1.5; color:#101222; text-align:left; background-color:#f6f8fa; --accent-color:#c5003b; --accent-color2:#9228eb; --accent-color3:#D80848; --accent-color4:#036690; font-family:'Courier New', Courier, monospace; font-size:16px }
-body.dark { background-color:#101222; --main-color:#c9d1d9; --accent-color:#f6acc2; --accent-color2:#bb7dee; --accent-color3:#ffab70; --accent-color4:#afe2f7; }
+body { margin:0; font-weight:400; line-height:1.5; color:#101222; text-align:left; background-color:#f6f8fa; --accent-color:#D80848; --accent-color2:#031f90; --accent-color3:#e03e5a; --accent-color4:#036690; font-family:'Courier New', Courier, monospace; font-size:16px }
+body.dark { background-color:#101222; --main-color:#c9d1d9; --accent-color:#faafb2; --accent-color2:#9f94cf; --accent-color3:#faafb2; --accent-color4:#7ebae7; }
 body.dark footer { background-color:#101222; }
 p { margin-top:0; margin-bottom:1rem; text-align:justify; font-size:0.8em }
 h1, h2, h3, h4, h5 { margin-bottom:0.3rem; font-family:inherit; line-height:1.2; font-weight:700 }
-h2, h3, h4, h5 { font-size:0.98em}
+h2, h3, h4, h5 { font-size:1.02em}
 dl { margin:0 }
 i { color:var(--accent-color) }
 .text-accent {  color:var(--accent-color) }
